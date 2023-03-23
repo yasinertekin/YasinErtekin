@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yasin Ertekin</h1>
 <h3 align="center">A passionate Mobile App developer from Turkey</h3>
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
